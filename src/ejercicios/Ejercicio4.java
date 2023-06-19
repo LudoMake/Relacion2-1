@@ -27,6 +27,7 @@ public class Ejercicio4 {
 		} else {
 			System.out.printf("El triángulo de lados %d, %d y %d no existe", lado1,lado2,lado3);
 		} 
-				
+		
+		teclado.close();
 	}
 }

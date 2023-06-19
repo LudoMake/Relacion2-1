@@ -80,7 +80,7 @@ public class Ejercicio9_otro {
 		}
 		System.out.printf("El sueldo es %.2f, la retencion %.2f y el salario neto %.2f\n",
 				sueldo, totalRetencion, sueldo-totalRetencion);
-
+		teclado.close();
 	}
 
 }

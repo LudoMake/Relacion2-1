@@ -43,6 +43,7 @@ public class Ejercicio6 {
 				System.out.println("y son perpendiculares");
 			}
 		}
+		teclado.close();
 	}
 
 }

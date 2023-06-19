@@ -26,7 +26,7 @@ public class Ejercicio2_1 {
 		} else {
 			System.out.printf("El menor es %.2f",num3);
 		}
-
+		teclado.close();
 	}
 
 }

@@ -50,7 +50,7 @@ public class Ejercicio3_coniguales {
 
         }		
 		
-		
+		teclado.close();
 
 	}
 

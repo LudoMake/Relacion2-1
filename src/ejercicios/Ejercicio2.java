@@ -24,7 +24,7 @@ public class Ejercicio2 {
 		if (num3<menor) menor=num3;
 		
 		System.out.printf("El menpr es %.2f",menor);
-
+		teclado.close();
 	}
 
 }

@@ -34,8 +34,9 @@ public class Ejercicio1 {
 		} else {
 			System.out.printf("el menor es %d y el mayor es %d",
 					num2,num1);
-		}
 		
+		}
+		teclado.close();
 	}
 
 }

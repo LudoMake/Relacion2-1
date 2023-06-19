@@ -69,7 +69,8 @@ public class Ejercicio8 {
 			return;
 		}
 		System.out.printf("El resultado es %.2f",res);
-
+		
+		teclado.close();
 	}
 
 }

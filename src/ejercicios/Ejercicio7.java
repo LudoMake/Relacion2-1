@@ -27,5 +27,6 @@ public class Ejercicio7 {
 		} else {
 			System.out.println("El año NO es bisiesto");
 		}
+		teclado.close();
 	}
 }
